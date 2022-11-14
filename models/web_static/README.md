@@ -1,0 +1,1 @@
+web static of the AirBnb_Clne project
